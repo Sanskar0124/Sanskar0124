@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sanskar Sakhareliya
 
 🎯 **Full Stack Developer (MERN | Django) | DevOps Enthusiast**  
-📍 Mumbai, India | 🌐 https://sanskar0124.github.io/My-Portfolio/ | 📧 sanskar.sakhareliya@gmail.com
+📍 Mumbai, India | 🌐 [Portfolio Website](https://sanskar0124.github.io/My-Portfolio) | 📧 sanskar.sakhareliya@gmail.com
 
 ---
 
@@ -41,7 +41,7 @@ With nearly **5 years of hands-on experience**, I specialize in building secure,
 ## 📬 Contact
 
 - 📧 Email: sanskar.sakhareliya@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/sanskar-sakhareliya-1a64451a0/
-- 🌐 Portfolio: [[your-portfolio-link.com](https://your-portfolio-link.com)](https://sanskar0124.github.io/My-Portfolio/)
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/sanskar-sakhareliya-1a64451a0/")
+- 🌐 Portfolio: [your-portfolio-link.com](https://sanskar0124.github.io/My-Portfolio)
 
 ---
