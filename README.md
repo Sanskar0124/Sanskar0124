@@ -30,13 +30,16 @@ With nearly **5 years of hands-on experience**, I specialize in building secure,
 
 ## 📈 Live Projects
 
-| Project        | Tech Stack                  | Description |
-| -------------- | --------------------------- | ----------- |
-| [PIPEX.AI](https://pipex.ai) | React, Node.js, MongoDB, AWS, Docker | B2B industrial marketplace with full-stack architecture |
-| [Trimvault](https://trimvault.com) | React, Django, SQLite | Salon management SaaS with booking, billing, staff CRM |
-| [Dolphin Furnishing CRM](https://dolphinfurnishingindia.com) | React, Django, SQLite | CRM with multi-role dashboards for order and user tracking |
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| [PIPEX.AI](https://pipex.ai) | Next.js, Node.js, MongoDB, Docker, Jenkins, AWS, NGINX | B2B industrial marketplace for sourcing steel products. Features include quotation engine, microservices, AI-powered SEO, and full cloud deployment. |
+| [Trimvault](https://trimvault.com) | Django, React.js, Tailwind, Python, SQLite, Docker, Jenkins, AWS, NGINX | SaaS salon management platform with role-based dashboards, real-time booking, billing, staff tracking, sales graphs, and automated customer engagement. |
+| [Dolphin Furnishing CRM](https://dolphinfurnishingindia.com) | Django, React.js, SQLite, Tailwind, Docker, Jenkins, AWS, NGINX | CRM for a real client with multi-role access (super admin to client user), order tracking, inventory management, and secure authentication. |
+| SJ Jewellers E-Commerce | Next.js, Node.js, MongoDB, Docker, Jenkins, AWS, NGINX | E-commerce solution with product browsing, cart, order placement, and robust admin panel for inventory and orders. |
+| Valorant Card Trading App | React.js, Vite, JavaScript, Bootstrap | Interactive trading app with starter packs, point-matched trades, and multi-card exchange system. |
+| Weather App | JavaScript, Bootstrap, HTML, CSS | Real-time weather display app using open APIs with clean and responsive UI. |
+| iDragon Game | JavaScript, HTML, CSS | Fast-paced browser game where a dragon jumps enemies with increasing difficulty over time. |
 
----
 
 ## 📬 Contact
 
