@@ -38,13 +38,6 @@ With nearly **5 years of hands-on experience**, I specialize in building secure,
 
 ---
 
-## 📊 GitHub Stats
-
-![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanskar0124&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskar0124&layout=compact&theme=radical)
-
----
-
 ## 📬 Contact
 
 - 📧 Email: sanskar.sakhareliya@gmail.com  
